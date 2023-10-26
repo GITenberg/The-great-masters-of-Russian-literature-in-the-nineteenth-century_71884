@@ -1,0 +1,33 @@
+_repo: The-great-masters-of-Russian-literature-in-the-nineteenth-century_71884
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dole, Nathan Hale
+    gutenberg_agent_id: '56443'
+    url: http://www.gutenberg.org/2009/agents/56443
+creator:
+  author:
+    agent_name: Dupuy, Ernest
+    birthdate: 1849
+    deathdate: 1918
+    gutenberg_agent_id: '39234'
+    url: http://www.gutenberg.org/2009/agents/39234
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71884'
+language: en
+pgterms:marc904: https://archive.org/details/greatmastersofru00dupu/page/n7/mode/2up
+pgterms:marc905: 20230306155516dupuy
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThomas Y. Crowell & Co., $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The great masters of Russian literature in the nineteenth century
+url: http://www.gutenberg.org/ebooks/71884

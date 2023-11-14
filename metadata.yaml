@@ -5,6 +5,9 @@ contributor:
     agent_name: Dole, Nathan Hale
     gutenberg_agent_id: '56443'
     url: http://www.gutenberg.org/2009/agents/56443
+covers:
+- cover_type: archival
+  image_path: 71884-h/images/cover.jpg
 creator:
   author:
     agent_name: Dupuy, Ernest
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '39234'
     url: http://www.gutenberg.org/2009/agents/39234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71884#The-great-masters-of-Russian-literature-in-the-nineteenth-century
 gutenberg_issued: '2023-10-15'
 identifiers:
   gutenberg: '71884'
